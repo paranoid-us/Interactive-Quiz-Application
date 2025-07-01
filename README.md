@@ -4,11 +4,11 @@
 
 *NAME*: MUSKAN JHA 
 
-*INTERN ID*: 
+*INTERN ID*: CT04DF1237
 
 *DOMAIN*: 4 WEEKS
 
-"MENTOR*: NEELA SANTOSH
+*MENTOR*: NEELA SANTOSH
 
 ## The **DevMuskan Quiz App** is an interactive and lively browser-based quiz application that is built with the help of **HTML, CSS, and JavaScript**. It is a fun and engaging method for administering quizzes on web development topics like HTML, CSS, JavaScript, and PHP.
 
