@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>DevMuskan Quiz</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="start-screen">
+    <div class="quiz-container">
+      <h1>Welcome to the Quiz</h1>
+      <button id="start-btn">Start Quiz</button>
+    </div>
+  </div>
+
+  <div id="quiz-screen" class="hidden">
+    <div class="quiz-container">
+      <div id="timer">⏳ 60</div>
+      <div id="question"></div>
+      <div id="answer-buttons"></div>
+      <div id="feedback"></div>
+      <div id="score">Score: 0</div>
+      <button id="next-btn" class="hidden">Next</button>
+    </div>
+  </div>
+
+  <div class="watermark">Made by DevMuskan</div>
+
+  <audio id="correct-sound" src="correct.mp3" preload="auto"></audio>
+  <audio id="wrong-sound" src="wrong.mp3" preload="auto"></audio>
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
