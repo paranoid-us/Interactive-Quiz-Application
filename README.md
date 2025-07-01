@@ -10,7 +10,7 @@
 
 "MENTOR*: NEELA SANTOSH
 
-##The **DevMuskan Quiz App** is an interactive and lively browser-based quiz application that is built with the help of **HTML, CSS, and JavaScript**. It is a fun and engaging method for administering quizzes on web development topics like HTML, CSS, JavaScript, and PHP.
+## The **DevMuskan Quiz App** is an interactive and lively browser-based quiz application that is built with the help of **HTML, CSS, and JavaScript**. It is a fun and engaging method for administering quizzes on web development topics like HTML, CSS, JavaScript, and PHP.
 
 The program starts with a greeting page. On the click of **"Start Quiz,"** the quiz page opens up with a 60-second countdown timer on each question. The quiz is shown one question at a time in multiple-choice format, with instant visual and audio feedback for correct or incorrect answers using **custom sound effects** (`correct.mp3` and `wrong.mp3`).
 
@@ -65,4 +65,4 @@ Timers (setInterval, clearInterval)
 Dynamic UI updates
 Audio integration
 Conditional rendering and feedback logic
-UI/UX design principles using pure CSS
+UI/UX design principles using pure CSS. 
