@@ -66,3 +66,11 @@ Dynamic UI updates
 Audio integration
 Conditional rendering and feedback logic
 UI/UX design principles using pure CSS. 
+
+# OUTPUT 
+
+![Image](https://github.com/user-attachments/assets/731bb123-5f44-4d0e-8a84-3a405e640b3f)
+
+![Image](https://github.com/user-attachments/assets/010ce985-5bed-4de3-a072-b6e0fdd9f8f2)
+
+![Image](https://github.com/user-attachments/assets/16f14dce-1f68-428e-9cf6-af60561e313b)
