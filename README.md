@@ -74,3 +74,5 @@ UI/UX design principles using pure CSS.
 ![Image](https://github.com/user-attachments/assets/010ce985-5bed-4de3-a072-b6e0fdd9f8f2)
 
 ![Image](https://github.com/user-attachments/assets/16f14dce-1f68-428e-9cf6-af60561e313b)
+
+
